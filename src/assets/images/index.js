@@ -1,0 +1,27 @@
+const Images = {
+    bannerImg: require('./banner-img.jpg'),
+    logo: require('../img/Logo-img-colourfull-Final.svg'),
+    loadIcon: require('./load-id-icon.svg'),
+    ShipperIcon: require('./Shipper-info-icon.svg'),
+    manUser: require('./man-user.svg'),
+    homeIcon: require('./home-icon.svg'),
+    mobileIcon: require('./mobile-icon.svg'),
+    emailIcon: require('./email_icon.svg'),
+    emailBlueIcon: require('./emailBlue.svg'),
+    downloadIcon: require('./Download-icon.svg'),
+    attachementIcon: require('./attachement-icon.svg'),
+    RightGraphics: require('./Right-graphics.svg'),
+    LeftGraphic: require('./Left-Graphic.svg'),
+    footerLogo: require('../img/Logo-img-colourfull-Final.svg'),
+    facebook: require('./facebook.svg'),
+    twitter: require('./twitter.svg'),
+    instagram: require('./instagram.svg'),
+    star: require('./star.svg'),
+    starBlue: require('./star-blue.svg'),
+    shipment: require('./truck-img.svg'),
+    pdf: require('./pdf.svg'),
+    svg: require('./doc.svg'),
+    file:require('./file.svg'),
+    video:require('./video-file.svg')
+}
+export default Images;

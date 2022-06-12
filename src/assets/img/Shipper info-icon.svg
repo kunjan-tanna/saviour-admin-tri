@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="43" height="43" viewBox="0 0 43 43">
+  <g id="Shipper_info-icon" data-name="Shipper info-icon" transform="translate(-424 -405)">
+    <rect id="Rectangle_6" data-name="Rectangle 6" width="43" height="43" rx="10" transform="translate(424 405)" fill="#e3f8ff"/>
+    <g id="Group_13" data-name="Group 13" transform="translate(-548.5 72.744)">
+      <path id="Path_4" data-name="Path 4" d="M1006.763,346.969l-13.093,8.393-13.093-8.393,13.093-8.393Z" transform="translate(-0.065)" fill="none" stroke="#2d7cbf" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+      <path id="Path_5" data-name="Path 5" d="M1006.708,397.5v16.807h-.011L993.6,422.7l-13.093-8.393H980.5V397.5" transform="translate(0 -50.531)" fill="none" stroke="#2d7cbf" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+      <line id="Line_2" data-name="Line 2" y1="16.808" transform="translate(993.604 355.373)" fill="#fff" stroke="#2d7cbf" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5"/>
+      <path id="Path_6" data-name="Path 6" d="M1014.5,409.723V392.916l6.695-4.416,3.7,2.279-6.41,4.558v16.828" transform="translate(-29.157 -42.813)" fill="none" stroke="#2d7cbf" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    </g>
+  </g>
+</svg>
